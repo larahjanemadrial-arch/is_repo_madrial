@@ -1,0 +1,7 @@
+funcparserlib==1.0.1
+humpy==0.1.2
+hy==1.2.0
+numpy==2.4.2
+pandas==3.0.1
+python-dateutil==2.9.0.post0
+six==1.17.0
